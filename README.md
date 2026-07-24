@@ -47,6 +47,8 @@ To solve muscle redundancy:
 - Set the saving path
 - Run the file
 
+To reproduce the results, use the setup and model files tuned for each task and saved in the results directory. 
+
 To generate the graphs used in the paper or other customized graphs:
 - Navigate to Personal_Results
 - Customize/Run Generate_Graphs.m
